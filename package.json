@@ -1,0 +1,28 @@
+{
+  "name": "webpack_minimal_",
+  "version": "1.0.0",
+  "description": "minimalist setup to use es2015, jsx, and linting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourSenchou/webpack_minimal_.git"
+  },
+  "keywords": [
+    "webpack",
+    "react",
+    "reactjs",
+    "jsx",
+    "minimal",
+    "es2015",
+    "linting"
+  ],
+  "author": "Airiel D. Salvatore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourSenchou/webpack_minimal_/issues"
+  },
+  "homepage": "https://github.com/yourSenchou/webpack_minimal_#readme"
+}
