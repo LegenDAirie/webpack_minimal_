@@ -4,6 +4,7 @@
   "description": "minimalist setup to use es2015, jsx, and linting.",
   "main": "index.js",
   "scripts": {
+    "start": "webpack --progress --colors --watch",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
