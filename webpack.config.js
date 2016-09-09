@@ -5,6 +5,16 @@ var config = {
   output: {
     path: __dirname + '/bundled/',
     filename: 'bundle.js'
+  },
+
+  module: {
+    loaders: [
+      {
+        test: /\.js$/,
+        include: __dirname + '/src/',
+        loader: 'babel'
+      }
+    ]
   }
 };
 
